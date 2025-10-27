@@ -35,7 +35,7 @@ El documento de pruebas sirve como guía principal para abordar el reto:
 3. Ejecutar las consultas para verificar los datos y validar los resultados esperados.  
 
 ### 3. Revisar el documento de pruebas
-- Abrir el documento PDF o Word disponible en la carpeta `Documentación`.  
+- Abrir el documento PDF disponible en la carpeta `Documentación`.  
 - Leer **páginas 1 a 4** para entender el plan de pruebas y escenarios.  
 - Revisar **página 6 en adelante** para ver la solución y los resultados obtenidos.  
 
